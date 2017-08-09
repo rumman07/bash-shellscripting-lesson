@@ -1,1 +1,1 @@
-#Bash shell-scripting-lesson
+This is an important lesson
